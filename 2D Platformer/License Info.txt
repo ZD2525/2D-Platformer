@@ -1,0 +1,15 @@
+Sound:
+"collect.mp3"
+	Artist: wobbleboxx (https://www.wobbleboxx.com)
+	From: https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+	License: Public Domain CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+
+"jump.mp3"
+	Artist: phoenix1291 (SwissArcadeGameEntertainment)
+	From: "Mario Jumping Sound" https://opengameart.org/content/sound-effects-mini-pack15
+	License: Public Domain CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+
+"death.mp3"
+	Artist: "Alexander"
+	From: "Roblox death sound. roblox oof." http://www.orangefreesounds.com/roblox-death-sound/
+	License: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
